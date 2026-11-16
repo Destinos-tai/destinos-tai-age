@@ -37,3 +37,4 @@ Este proyecto crece gracias a lo que aportamos entre todos. Si tienes datos de t
 2. **Pull Request:** Si te manejas con Git, puedes hacer un *fork* del repositorio, añadir o actualizar las fichas en Markdown y enviar tu PR.
 3. **📧 Correo de contacto:** `destinos-tai@proton.me`
 
+google-site-verification: googlef6fea93a13aa1342.html
