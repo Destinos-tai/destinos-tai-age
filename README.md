@@ -35,4 +35,5 @@ Este proyecto crece gracias a lo que aportamos entre todos. Si tienes datos de t
 
 1. **Abriendo una Issue (recomendado):** Ve a la pestaña **[Issues](../../issues)**, pulsa en *New issue* y pega la información del ministerio/organismo. Puedes usar una cuenta secundaria de GitHub si prefieres mantener tu anonimato.
 2. **Pull Request:** Si te manejas con Git, puedes hacer un *fork* del repositorio, añadir o actualizar las fichas en Markdown y enviar tu PR.
+3. **📧 Correo de contacto:** `destinos-tai@proton.me`
 
