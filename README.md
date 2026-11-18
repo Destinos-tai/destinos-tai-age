@@ -69,3 +69,12 @@ Este proyecto crece gracias a lo que aportamos entre todos. Si tienes datos de t
 3. **📧 Correo de contacto:** `destinos-tai@proton.me`
 
 <meta name="google-site-verification" content="a7eQO1UQhbQLQbGzz5-wz0I-ZVz4utBK4JUxLaHZCy0" />
+
+## Gracias
+
+A los cientos de visitantes diarios, también he observado que hay gente intentado clonar el repositorio (entendible, no tengo ningún problema), si aún queréis clonar el repositorio, tendréis que clonar más bien la wiki junto con un visor de markdown, que lo dejo a tu elección o a la de tu ia de referencia:
+
+```
+git clone https://github.com/Destinos-tai/destinos-tai-age.wiki.git
+```
+
