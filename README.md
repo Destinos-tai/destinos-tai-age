@@ -58,6 +58,11 @@ De nuevo en la página del inap del proceso, aparecerá publicado el BOE de nomb
 <img width="1561" height="172" alt="image" src="https://github.com/user-attachments/assets/6d196bc5-456a-4c0e-a8be-540de006062d" />
 Una vez que se publica este BOE, tienes 15 días para incorporarte si es en la misma provincia en la que estás empadronado y 30 si es en una provincia diferente
 
+### 5. Cómo estar al tanto de las novedades
+Estos bot de telegram te avisarán cada vez que suceda algo relevante, no todas las notificaciones son de tai, pero ver cómo evolucionan el resto de los procesos también es interesante
+https://t.me/Notificaciones_TAI_GSI_CSSTIAE
+https://t.me/oposicionesdeage
+
 ---
 
 ## 🤝 Cómo colaborar (de forma anónima o abierta)
