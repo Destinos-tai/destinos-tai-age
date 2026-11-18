@@ -32,18 +32,20 @@ Toda la documentación está organizada en la **[Wiki del repositorio](../../wik
 ## 🗺️ Estimación de siguientes pasos (Post-lista de aprobados)
 
 La lista publicada por el tribunal es solo el primer paso; todavía queda el trámite oficial antes de elegir plaza. Basándonos en convocatorias anteriores (como la de TAI 2020-2022 y procesos paralelos de C2), esta es la hoja de ruta habitual:
+Proceso de los c2, para que sirva como referencia:
+<img width="1019" height="1068" alt="image" src="https://github.com/user-attachments/assets/0687c60a-b98e-4e9b-bfeb-1d5d79518050" />
 
 ### 1. El punto en el que estamos ahora
 * **Seguir la web del INAP:** La lista actual no es el nombramiento definitivo, de hecho hay 844 plazas y los listados que salen junto con las plantillas definitivas de respuestas, contienen este año 904 opositores, por lo que el inap, tendrá que resolver esos empates.
 <img width="879" height="447" alt="image" src="https://github.com/user-attachments/assets/4a2d6b5d-1099-464d-a940-d1496b635169" />
 
-### 2. Publicación del listado definitivo 
-Cuando se publiquen los siguientes pasos oficiales (tanto en el INAP como su posterior traslado al **BOE**), aparecerá un enlace específico hacia el portal de **Función Pública** (`digital.gob.es`) con el listado de plazas ofertadas y el asistente de petición.
+### 2. Publicación del listado definitivo Fecha estimada: primera quincena de diciembre, aunque viendo lo que han tardado en salir las plantillas definitivas, no se puede poner la mano en el fuego
+Cuando se publiquen el listado aprobados definitivo (resolviendo empates), aparecerá un enlace específico hacia el portal de **Función Pública** (`digital.gob.es`) con el listado de plazas ofertadas y el asistente de petición.
 Ejemplo del enlace del año pasado:
 <img width="1592" height="121" alt="image" src="https://github.com/user-attachments/assets/432132cb-bc8f-4101-80d1-f477c3ef48ae" />
-Ahora habrá que esperar que pasen 20 días laborables para que la gente pueda proporcionar la documentación solicitada una vez que se cumpla ese plazo, inap, revisará esa documentación y si todo está correcto, pasará el proceso a función pública.
+Ahora habrá que esperar que pasen 20 días laborables para que la gente pueda proporcionar la documentación solicitada una vez que se cumpla ese plazo, inap, revisará esa documentación y si todo está correcto, pasará el proceso a función pública, que tardará un par de meses (esperamos) en sacar la oferta de destinos.
 
-### 3. Enlaces oficiales de referencia (Convocatorias anteriores)
+### 3. Oferta de destinos (un par de meses después del hito anterior)
 Aunque las URLs definitivas cambiarán para nuestra convocatoria, estos enlaces de procesos anteriores sirven para ver exactamente **cómo funciona la aplicación de solicitud de puestos** y qué formato tienen las instrucciones:
 Ejemplo del párrafo del año pasado que contiene la url donde se publicarán los destinos:
 <img width="841" height="223" alt="image" src="https://github.com/user-attachments/assets/b9a69a59-882c-4e94-b4de-14b38d413fcf" />
@@ -51,7 +53,7 @@ Ejemplo del párrafo del año pasado que contiene la url donde se publicarán lo
 * **Portal general de seguimiento (Ejemplo TAI 2020-2022):** [Ver página en Función Pública](https://digital.gob.es/funcion-publica/dgfp/acceso-empleo-publico/convocatorias-personal-funcionario/generales/convocatorias-2021/tais-2020--2021-y-2022)
 * **Instrucciones para dar de alta y ordenar los puestos:** [Ver guía de petición de vacantes](https://digital.gob.es/funcion-publica/dgfp/acceso-empleo-publico/convocatorias-personal-funcionario/generales/convocatorias-2021/instrucciones-peticion-vacantes-)
 
-### 4. Publicación del BOE de nombramientos
+### 4. Publicación del BOE de nombramientos (otro par de meses después del hito anterior), si todo va MUY bien, en abril, si todo va MUY mal, en septiembre, uno no se atreve a hacer predicciones
 De nuevo en la página del inap del proceso, aparecerá publicado el BOE de nombramientos
 <img width="1561" height="172" alt="image" src="https://github.com/user-attachments/assets/6d196bc5-456a-4c0e-a8be-540de006062d" />
 Una vez que se publica este BOE, tienes 15 días para incorporarte si es en la misma provincia en la que estás empadronado y 30 si es en una provincia diferente
