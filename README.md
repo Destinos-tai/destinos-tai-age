@@ -40,7 +40,7 @@ Proceso de los c2, para que sirva como referencia:
 <img width="879" height="447" alt="image" src="https://github.com/user-attachments/assets/4a2d6b5d-1099-464d-a940-d1496b635169" />
 
 ### 2. Publicación del listado definitivo Fecha estimada: primera quincena de diciembre, aunque viendo lo que han tardado en salir las plantillas definitivas, no se puede poner la mano en el fuego
-Cuando se publiquen el listado aprobados definitivo (resolviendo empates), aparecerá un enlace específico hacia el portal de **Función Pública** (`digital.gob.es`) con el listado de plazas ofertadas y el asistente de petición.
+Cuando se publiquen el listado aprobados definitivo (resolviendo empates), aparecerá un enlace específico con la lista definitiva de aprobados.
 Ejemplo del enlace del año pasado:
 <img width="1592" height="121" alt="image" src="https://github.com/user-attachments/assets/432132cb-bc8f-4101-80d1-f477c3ef48ae" />
 Ahora habrá que esperar que pasen 20 días laborables para que la gente pueda proporcionar la documentación solicitada una vez que se cumpla ese plazo, inap, revisará esa documentación y si todo está correcto, pasará el proceso a función pública, que tardará un par de meses (esperamos) en sacar la oferta de destinos.
