@@ -31,6 +31,7 @@ Toda la documentación está organizada en la **[Wiki del repositorio](../../wik
 
 ## FAQ
 ### [🗺️ Estimación de siguientes pasos (Post-lista de aprobados)](../../wiki/Estimación-de-fechas-de-todo-el-proceso)
+### [Han salido las notas?, cuando saldrá la siguiente convocatoria? cómo estar al tanto de las novedades en general](wiki/Cómo-estar-al-tanto-de-las-novedades)
 
 ---
 
