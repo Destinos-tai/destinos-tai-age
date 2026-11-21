@@ -15,7 +15,7 @@ Los datos de las últimas convocatorias demuestran que el modelo actual de grupo
 Este proyecto nace para acabar con esa dependencia y devolver la información a quien pertenece:
 
 * **Sin censura ni filtros artificiales:** Información directa sobre condiciones reales de trabajo, modalidades de teletrabajo, horarios y productividades, sin palabras prohibidas ni datos dosificados con cuentagotas.
-* **Historial permanente e inalterable:** Todo el conocimiento queda registrado y organizado por ministerios y organismos. Nadie puede borrar años de aportaciones colectivas de un plumazo.
+* **Historial permanente e inalterable:** Todo el conocimiento queda registrado y organizado por ministerios y organismos. Nadie puede borrar años de aportaciones de un plumazo.
 * **Acceso libre e igualitario:** Sin admisiones arbitrarias ni intermediarios. La información sobre los puestos públicos es de todo el colectivo.
 
 ---
