@@ -64,4 +64,5 @@ Este proyecto crece gracias a lo que aportamos entre todos. Si tienes datos de t
 Gracias a los cientos de visitantes diarios que pasáis por aquí. También he visto que hay gente intentando clonar el repositorio (algo totalmente entendible, no tengo ningún problema con ello). Si queréis tener una copia local, tened en cuenta que lo que tenéis que clonar es la **Wiki** y que necesitaréis un visor de Markdown; cuál usar lo dejo a vuestra elección o a la de vuestra IA de referencia:
 
 ```bash
-git clone [https://github.com/Destinos-tai/destinos-tai-age.wiki.git](https://github.com/Destinos-tai/destinos-tai-age.wiki.git)
+git clone https://github.com/Destinos-tai/destinos-tai-age.wiki.git
+```
