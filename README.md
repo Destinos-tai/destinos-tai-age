@@ -6,16 +6,21 @@ Repositorio colaborativo y de acceso libre con información real sobre **destino
 
 ## 💡 ¿Por qué existe este proyecto?
 
-Aprobar una oposición ya es lo suficientemente duro como para que, a la hora de elegir plaza, te encuentres con un muro de silencio o tengas que pasar por el aro de grupos cerrados donde unos pocos actúan como "porteros" de la información pública.
+Aprobar una oposición ya es lo suficientemente duro como para que, en el momento decisivo de elegir plaza, te encuentres con muros de acceso, filtros de palabras clave o grupos cerrados donde unos pocos deciden qué información se puede compartir y cuál no.
 
-La consecuencia de esa gestión opaca y de las expulsiones arbitrarias ya se ha visto en los propios datos: mientras que históricamente las hojas colaborativas de aprobados solían recoger en torno al **80 % de la promoción**, en la última convocatoria **no se ha llegado ni a un tercio**, dejando a cientos de compañeros a ciegas en el momento más crítico del proceso. Unos grupos donde, además, la propia administración ha llegado a borrar años enteros de su historial de mensajes al verse expuesta públicamente.
+Los datos de las últimas convocatorias demuestran que el modelo actual de grupos privados está agotado: mientras que históricamente las hojas colaborativas de aprobados recogían en torno al **80 %** de la promoción, en la última convocatoria no se llegó ni a **un tercio**. Cuando los espacios de ayuda mutua se gestionan con opacidad, expulsiones arbitrarias o llegan al extremo de borrar años enteros de histórico de mensajes, quienes pierden son cientos de compañeros que se quedan a ciegas ante una decisión que marcará su vida laboral.
 
-Cansados de:
-* Tener que mendigar datos básicos sobre condiciones laborales, teletrabajo o productividades.
-* Encontrarnos con barreras de entrada, información dosificada con cuentagotas y conversaciones efímeras que no dejan rastro.
-* Que datos que deberían ayudar a todos los compañeros se traten como si fueran un secreto de Estado.
+## 🚀 Qué ofrece este repositorio
 
-**Esta es la alternativa abierta.** Aquí no hay admisiones arbitrarias, no hay jerarquías ni historial que desaparezca de la noche a la mañana. La información es de todos y para todos los compañeros de promoción (actuales y futuros).
+Este proyecto nace para acabar con esa dependencia y devolver la información a quien pertenece:
+
+* **Sin censura ni filtros artificiales:** Información directa sobre condiciones reales de trabajo, modalidades de teletrabajo, horarios y productividades, sin palabras prohibidas ni datos dosificados con cuentagotas.
+* **Historial permanente e inalterable:** Todo el conocimiento queda registrado y organizado por ministerios y organismos. Nadie puede borrar años de aportaciones colectivas de un plumazo.
+* **Acceso libre e igualitario:** Sin admisiones arbitrarias ni intermediarios. La información sobre los puestos públicos es de todo el colectivo.
+
+---
+
+> *Una herramienta construida por y para los compañeros de promoción —actuales y futuros—, abierta hoy y para las convocatorias que vengan.*
 
 ---
 
