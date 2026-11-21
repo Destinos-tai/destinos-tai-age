@@ -35,6 +35,7 @@ Toda la documentación está organizada en la **[Wiki del repositorio](../../wik
 * 💻 **Puestos y tecnologías:** Perfiles habituales (desarrollo, sistemas, soporte, seguridad, gestión) y stack tecnológico con el que se trabaja en cada organismo.
 
 > **⚠️ Nota importante sobre jornada y actualización de datos:**
+ 
 > Los datos recopilados en esta ficha corresponden a **convocatorias anteriores**. Ten en cuenta que durante este año en numerosos ministerios y organismos autónomos se ha ido haciendo efectiva la implantación de la **jornada semanal de 35 horas** (en sustitución de las 37,5 horas anteriores), en aplicación del *Acuerdo Marco para una Administración del Siglo XXI* (Resolución de 14 de noviembre de 2022, de la Secretaría de Estado de Función Pública — BOE núm. 276) y los acuerdos de desarrollo en la Mesa General de Negociación de la AGE sobre modificación de la Resolución de jornada y horarios (Resolución de 28 de febrero de 2019). Se recomienda verificar el calendario laboral vigente de cada departamento al tomar posesión.
 > 
 ---
