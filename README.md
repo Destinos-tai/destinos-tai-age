@@ -2,7 +2,7 @@
 
 Repositorio colaborativo y de acceso libre con información real sobre **destinos, ministerios, teletrabajo, horarios y complementos** para el Cuerpo de Técnicos Auxiliares de Informática de la Administración General del Estado (**TAI AGE**).
 
-👉 **[ENTRAR DIRECTAMENTE A LA WIKI DE DESTINOS Y MINISTERIOS, por que la información del grupo de aprobados, no es un privilegio, es un derecho](https://github.com/Destinos-tai/destinos-tai-age/wiki)**
+👉 **[ENTRAR DIRECTAMENTE A LA WIKI DE DESTINOS Y MINISTERIOS](https://github.com/Destinos-tai/destinos-tai-age/wiki)** — *Porque la información del grupo de aprobados no es un privilegio, es un derecho.*
 
 ---
 
