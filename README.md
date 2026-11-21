@@ -8,6 +8,8 @@ Repositorio colaborativo y de acceso libre con información real sobre **destino
 
 Aprobar una oposición ya es lo suficientemente duro como para que, a la hora de elegir plaza, te encuentres con un muro de silencio o tengas que pasar por el aro de grupos cerrados donde unos pocos actúan como "porteros" de la información pública.
 
+La consecuencia de esa gestión opaca y de las expulsiones arbitrarias ya se ha visto en los propios datos: mientras que históricamente las hojas colaborativas de aprobados solían recoger en torno al **80 % de la promoción**, en la última convocatoria **no se ha llegado ni a un tercio**, dejando a cientos de compañeros a ciegas en el momento más crítico del proceso. Unos grupos donde, además, la propia administración ha llegado a borrar años enteros de su historial de mensajes al verse expuesta públicamente.
+
 Cansados de:
 * Tener que mendigar datos básicos sobre condiciones laborales, teletrabajo o productividades.
 * Encontrarnos con barreras de entrada, información dosificada con cuentagotas y conversaciones efímeras que no dejan rastro.
