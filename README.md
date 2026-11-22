@@ -42,8 +42,8 @@ Toda la documentación está organizada en la **[Wiki del repositorio](https://g
 ## ❓ Preguntas Frecuentes (FAQ) y Guías Rápidas
 
 - 🗺️ **[Estimación de siguientes pasos (Post-lista de aprobados)](https://github.com/Destinos-tai/destinos-tai-age/wiki)** — *Qué ocurre desde que salen las notas hasta la toma de posesión.*
-- 📅 **[¿Han salido las notas? ¿Cuándo será la próxima convocatoria? Cómo seguir las novedades](https://github.com/Destinos-tai/destinos-tai-age/wiki)** — *Bots de Telegram oficiales, fuentes del INAP/BOE e histórico de ratios.*
-- 📚 **[¿Me recomendáis alguna academia o preparador?](https://github.com/Destinos-tai/destinos-tai-age/wiki)** — *Directorio abierto de preparadores independientes y recursos gratuitos.*
+- 📅 **[¿Han salido las notas? ¿Cuándo será la próxima convocatoria? Cómo seguir las novedades](https://github.com/Destinos-tai/destinos-tai-age/wiki/Cómo-estar-al-tanto-de-las-novedades)** — *Bots de Telegram oficiales, fuentes del INAP/BOE e histórico de ratios.*
+- 📚 **[¿Me recomendáis alguna academia o preparador?](https://github.com/Destinos-tai/destinos-tai-age/wiki/Estimación-de-fechas-de-todo-el-proceso)** — *Directorio abierto de preparadores independientes y recursos gratuitos.*
 
 *(Nota: actualiza las URLs anteriores con el slug exacto de cada página de tu Wiki para que lleven directo a cada sección).*
 
