@@ -42,7 +42,7 @@ Toda la documentación está organizada en la **[Wiki del repositorio](https://g
 ## ❓ Preguntas Frecuentes (FAQ) y Guías Rápidas
 
 - 🗺️ **[Estimación de siguientes pasos (Post-lista de aprobados)](https://github.com/Destinos-tai/destinos-tai-age/wiki/Estimación-de-fechas-de-todo-el-proceso)** — *Qué ocurre desde que salen las notas hasta la toma de posesión.*
-- 📅 **[¿Han salido las notas? ¿Cuándo será la próxima convocatoria? Cómo seguir las novedades](https://github.com/Destinos-tai/destinos-tai-age/wiki/Cómo-estar-al-tanto-de-las-novedades)** — *Bots de Telegram oficiales, fuentes del INAP/BOE e histórico de ratios.*
+- 📅 **[¿Han salido las notas? ¿Cuándo será la próxima convocatoria? Cómo seguir las novedades](https://github.com/Destinos-tai/destinos-tai-age/wiki/Cómo-estar-al-tanto-de-las-novedades)** — *Bots de Telegram oficiales, explicación del proceso a grandes rasgos y boe de la oep (oferta de empleo público) 2026.*
 - 📚 **[¿Me recomendáis alguna academia o preparador?](https://github.com/Destinos-tai/destinos-tai-age/wiki/Lista-de-preparadores-y-apuntes)** — *Directorio abierto de preparadores independientes y recursos gratuitos.*
 - 🔗 **[Otros repositorios, herramientas y recursos abiertos (TAI / GSI)](https://github.com/Destinos-tai/destinos-tai-age/wiki/Otros-recursos)** — *Exámenes oficiales en GitHub, visualizadores de plazas ofertadas y bots/apps gratuitas de test.*
 
