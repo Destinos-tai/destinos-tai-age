@@ -43,6 +43,7 @@ Toda la documentación está organizada en la **[Wiki del repositorio](https://g
 
 - 🗺️ **[Estimación de siguientes pasos (Post-lista de aprobados)](https://github.com/Destinos-tai/destinos-tai-age/wiki/Estimación-de-fechas-de-todo-el-proceso)** — *Qué ocurre desde que salen las notas hasta la toma de posesión.*
 - 📅 **[¿Han salido las notas? ¿Cuándo será la próxima convocatoria? Cómo seguir las novedades](https://github.com/Destinos-tai/destinos-tai-age/wiki/Cómo-estar-al-tanto-de-las-novedades)** — *Bots de Telegram oficiales, explicación del proceso a grandes rasgos y boe de la oep (oferta de empleo público) 2026.*
+- 📋 **[Convocatoria TAI AGE 2026: Plazas, cambios en el examen y novedades del temario](https://github.com/Destinos-tai/destinos-tai-age/wiki/Convocatoria-TAI-AGE-2026)** — *Desglose de las 1.103 plazas convocadas, inclusión del Bloque II en los supuestos prácticos y comparativa de los temas nuevos y ampliados respecto a la convocatoria anterior.*
 - 📚 **[¿Me recomendáis alguna academia o preparador?](https://github.com/Destinos-tai/destinos-tai-age/wiki/Lista-de-preparadores-y-apuntes)** — *Directorio abierto de preparadores independientes y recursos gratuitos.*
 - 🔗 **[Otros repositorios, herramientas y recursos abiertos (TAI / GSI)](https://github.com/Destinos-tai/destinos-tai-age/wiki/Otros-recursos)** — *Exámenes oficiales en GitHub, visualizadores de plazas ofertadas y bots/apps gratuitas de test.*
 
